@@ -1,4 +1,4 @@
-# As a Part of Learning Skills in Data Science and Machine Learning Journey, got few skills certificates from Scaler.
+# As a Part of Learning Skills in Data Science and Machine Learning Journey, got valuable skills certificates from Scaler.
 1. DBMS Fundamentals
 2. SQL
 3. Excel
