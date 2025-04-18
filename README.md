@@ -1,4 +1,4 @@
-# As a Part of Learning Skills in Data Science and Machine Learning Journey, got valuable skills certificates from Scaler.
+# As a Part of Learning Skills in Data Science and Machine Learning Journey, got valuable skills certificates from Scaler / CourseEra / Udemy.
 1. DBMS Fundamentals
 2. SQL -- Solved 200+SQL problems covering topics from basic SELECT queries to advanced techniques including CTEs and Window Functions.
 3. Excel -- Built interactive dashboards using Pivot Charts and Slicers; applied analytical techniques with Pivot Tables and Excel chart types.
